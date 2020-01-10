@@ -1,0 +1,24 @@
+{
+  "name": "MyFis3Test",
+  "version": "1.0.0",
+  "description": "Pingk个人Fis3练习。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist\\ && fis3 release build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ping-k/MyFis3Test.git"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "author": "Pingk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ping-k/MyFis3Test.git/issues"
+  },
+  "homepage": "https://github.com/Ping-k/MyFis3Test.git",
+  "dependencies": {}
+}
